@@ -1,0 +1,44 @@
+.main__header {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-left: 160px;
+    margin-right: 160px;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.main__menu ul {
+    display: flex;
+    gap: 56px;
+    padding-right: 370px;
+    list-style: none;
+}
+
+.main__menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.main__menu ul li a:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.main__header a.btn {
+    z-index: 1;
+    text-decoration: none;
+    color: white;
+    background-color: #515DEF;
+    padding: 12px 24px;
+    margin-right: -80px;
+    font-size: 14px;
+}
+
+.main__header a.btn:hover {
+    background-color: hsl(235, 83%, 63%, 0.5);
+    color: black;
+    font-weight: bold;
+}
+
