@@ -17,13 +17,13 @@
    preview 📸
 </h2>
 
-<img src=".preview/Project Header Business Agency.png/" alt="Banner"/>
+<img src="preview/Creative Company.png" alt="Banner"/>
 
 <h2 align="center" style="color: #0366d6;">
    Visit the web site on ⬇️
 </h2>
 
-<p align="center"><a align="center" href="https://mariohb25.github.io/HTML-CSS-SCSS-Web-development-and-design/">Business Agency</a></p>
+<p align="center"><a align="center" href="https://mariohb25.github.io/Web-development-and-design-II/">Creative Company</a></p>
 
 <br><br><br>
 
